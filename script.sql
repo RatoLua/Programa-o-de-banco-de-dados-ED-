@@ -54,3 +54,12 @@ INSERT INTO  WALLET_BD.MOEDA VALUES
 ('BRL','Real')
 SELECT * FROM  WALLET_BD.MOEDA;
 GO
+
+INSERT INTO  WALLET_BD.CLIENTE VALUES
+('Ze','lerolero@hotmail.com', '4166666666', 'dkjgndhzih', 'BTC'),
+('Blebos','blirolero@hotmail.com', '41) 6566-6666', 'skjdfhowlk', 'BRL'),
+('Blipo','clerolero@hotmail.com', '(41) 6667-6666', 'akjsfnkajdfij', 'ETH'),
+('Et de varginha','varginholero@hotmail.com', '(87) 6666-66456', 'alkscieo', 'LTS'),
+('biribo','popilero@hotmail.com', '(41) 6666-6321', 'ajsnfuie', 'USD')
+SELECT * FROM  WALLET_BD.CLIENTE;
+
