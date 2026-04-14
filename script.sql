@@ -1,3 +1,5 @@
+-- Jhonatan Andrade Quiterio, Gabriela Rocca, Thaiza dos Santos 
+
 -- Criação do banco de dados e uso
 CREATE DATABASE BD_ED;
 GO
